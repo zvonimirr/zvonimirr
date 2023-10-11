@@ -4,6 +4,9 @@ My name is __Zvonimir__ and I'm a programming polyglot, psychonaut and an explor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvonimirr&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+I also stream on [Twitch](https://www.twitch.tv/zvonecodes).
+
+
 - 🔭 I’m currently working on Elixir / Phoenix APIs
 - 🌱 I’m currently learning gardening & cooking
 - 👯 I’m looking to collaborate on Elixir, TypeScript & React projects
